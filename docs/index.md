@@ -1,21 +1,21 @@
 ---
 layout: home
 hero:
-  name: "My Site"
-  text: "欢迎来到我的网站"
-  tagline: 用 VitePress 驱动
+  name: "Omni笔记"
+  text: "AI · Web3 · 前沿科技"
+  tagline: 翻译与笔记，记录正在发生的未来
   actions:
     - theme: brand
       text: 开始阅读
-      link: /guide/
+      link: /blog/big-things-happening
     - theme: alt
       text: GitHub
-      link: https://github.com
+      link: https://github.com/haskaomni
 features:
-  - title: ⚡ 极速
-    details: 基于 Vite，开发体验飞快
-  - title: 📝 Markdown
-    details: 专注内容，Markdown 驱动
-  - title: 🎨 可定制
-    details: 主题和布局完全可控
+  - title: 🤖 AI 前沿
+    details: 跟踪 AI 行业最新动态与深度分析
+  - title: ⛓️ Web3 技术
+    details: 区块链、ZK、跨链等核心技术解读
+  - title: 🌍 全文翻译
+    details: 精选海外优质长文，完整中文翻译
 ---
