@@ -21,7 +21,8 @@ export default defineConfig({
       {
         text: '博客',
         items: [
-          { text: '大事正在发生', link: '/blog/big-things-happening' }
+          { text: '大事正在发生', link: '/blog/big-things-happening' },
+          { text: 'Shell + Skills + 压缩', link: '/blog/skills-shell-tips' }
         ]
       }
     ],
