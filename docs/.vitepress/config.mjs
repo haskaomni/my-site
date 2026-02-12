@@ -4,6 +4,25 @@ export default defineConfig({
   title: "Omni笔记",
   description: "AI · Web3 · 前沿科技翻译与笔记",
   base: '/my-site/',
+  head: [
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:image', content: 'https://haskaomni.github.io/my-site/og-cover.png' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:image', content: 'https://haskaomni.github.io/my-site/og-cover.png' }],
+  ],
+  transformPageData(pageData) {
+    const title = pageData.frontmatter.title || pageData.title || 'Omni笔记'
+    const desc = pageData.frontmatter.description || pageData.description || 'AI · Web3 · 前沿科技翻译与笔记'
+    const url = `https://haskaomni.github.io/my-site/${pageData.relativePath.replace(/\.md$/, '.html')}`
+    pageData.frontmatter.head ??= []
+    pageData.frontmatter.head.push(
+      ['meta', { property: 'og:title', content: title }],
+      ['meta', { property: 'og:description', content: desc }],
+      ['meta', { property: 'og:url', content: url }],
+      ['meta', { name: 'twitter:title', content: title }],
+      ['meta', { name: 'twitter:description', content: desc }],
+    )
+  },
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
