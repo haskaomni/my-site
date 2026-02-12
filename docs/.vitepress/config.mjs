@@ -26,12 +26,13 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/tool-shaped-objects' }
+      { text: '博客', link: '/blog/anthropic-economic-futures' }
     ],
     sidebar: [
       {
         text: '博客',
         items: [
+          { text: 'Anthropic 经济未来：AI 变革与投资机会', link: '/blog/anthropic-economic-futures' },
           { text: '工具形状的物体', link: '/blog/tool-shaped-objects' },
           { text: '大事正在发生', link: '/blog/big-things-happening' },
           { text: 'Shell + Skills + 压缩', link: '/blog/skills-shell-tips' },
