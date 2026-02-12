@@ -22,7 +22,8 @@ export default defineConfig({
         text: '博客',
         items: [
           { text: '大事正在发生', link: '/blog/big-things-happening' },
-          { text: 'Shell + Skills + 压缩', link: '/blog/skills-shell-tips' }
+          { text: 'Shell + Skills + 压缩', link: '/blog/skills-shell-tips' },
+          { text: 'Zero：去中心化多核世界计算机', link: '/blog/layerzero-zero' }
         ]
       }
     ],
