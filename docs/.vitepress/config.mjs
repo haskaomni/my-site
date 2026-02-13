@@ -32,6 +32,7 @@ export default defineConfig({
       {
         text: '博客',
         items: [
+          { text: '那我该怎么办？', link: '/blog/so-what-should-i-do' },
           { text: '7 个实战 Agent 运行模式', link: '/blog/openclaw-autonomous-agent-patterns' },
           { text: 'Anthropic 经济未来：AI 变革与投资机会', link: '/blog/anthropic-economic-futures' },
           { text: '工具形状的物体', link: '/blog/tool-shaped-objects' },
