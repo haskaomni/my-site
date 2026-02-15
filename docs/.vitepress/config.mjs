@@ -34,6 +34,7 @@ export default defineConfig({
         items: [
           { text: '世界秩序已正式崩塌', link: '/blog/world-order-broken-down' },
           { text: '解决一切：2035 年实现富足', link: '/blog/solve-everything' },
+          { text: '12 个 Claude 提示词，替代投行工作', link: '/blog/claude-financial-prompts' },
           { text: 'Anthropic 经济未来：AI 变革与投资机会', link: '/blog/anthropic-economic-futures' },
           { text: '7 个实战 Agent 运行模式', link: '/blog/openclaw-autonomous-agent-patterns' },
           { text: 'AI 图片生成模型横评', link: '/blog/ai-image-model-compare' },
