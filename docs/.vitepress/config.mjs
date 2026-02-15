@@ -32,16 +32,16 @@ export default defineConfig({
       {
         text: '博客',
         items: [
-          { text: '那我该怎么办？', link: '/blog/so-what-should-i-do' },
-          { text: '7 个实战 Agent 运行模式', link: '/blog/openclaw-autonomous-agent-patterns' },
+          { text: '世界秩序已正式崩塌', link: '/blog/world-order-broken-down' },
+          { text: '解决一切：2035 年实现富足', link: '/blog/solve-everything' },
           { text: 'Anthropic 经济未来：AI 变革与投资机会', link: '/blog/anthropic-economic-futures' },
+          { text: '7 个实战 Agent 运行模式', link: '/blog/openclaw-autonomous-agent-patterns' },
+          { text: 'AI 图片生成模型横评', link: '/blog/ai-image-model-compare' },
+          { text: '那我该怎么办？', link: '/blog/so-what-should-i-do' },
           { text: '工具形状的物体', link: '/blog/tool-shaped-objects' },
           { text: '大事正在发生', link: '/blog/big-things-happening' },
           { text: 'Shell + Skills + 压缩', link: '/blog/skills-shell-tips' },
-          { text: 'Zero：去中心化多核世界计算机', link: '/blog/layerzero-zero' },
-          { text: 'AI 图片生成模型横评', link: '/blog/ai-image-model-compare' },
-          { text: '世界秩序已正式崩塌', link: '/blog/world-order-broken-down' },
-          { text: '解决一切：2035 年实现富足', link: '/blog/solve-everything' }
+          { text: 'Zero：去中心化多核世界计算机', link: '/blog/layerzero-zero' }
         ]
       }
     ],
