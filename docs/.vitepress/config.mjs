@@ -39,7 +39,9 @@ export default defineConfig({
           { text: '大事正在发生', link: '/blog/big-things-happening' },
           { text: 'Shell + Skills + 压缩', link: '/blog/skills-shell-tips' },
           { text: 'Zero：去中心化多核世界计算机', link: '/blog/layerzero-zero' },
-          { text: 'AI 图片生成模型横评', link: '/blog/ai-image-model-compare' }
+          { text: 'AI 图片生成模型横评', link: '/blog/ai-image-model-compare' },
+          { text: '世界秩序已正式崩塌', link: '/blog/world-order-broken-down' },
+          { text: '解决一切：2035 年实现富足', link: '/blog/solve-everything' }
         ]
       }
     ],
