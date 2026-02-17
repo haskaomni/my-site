@@ -32,6 +32,7 @@ export default defineConfig({
       {
         text: '博客',
         items: [
+          { text: '留下的代价', link: '/blog/cost-of-staying' },
           { text: 'InferenceX v2：Blackwell vs AMD vs Hopper', link: '/blog/inferencex-v2-blackwell-vs-amd' },
           { text: '世界秩序已正式崩塌', link: '/blog/world-order-broken-down' },
           { text: '解决一切：2035 年实现富足', link: '/blog/solve-everything' },
