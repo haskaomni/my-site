@@ -32,6 +32,7 @@ export default defineConfig({
       {
         text: '博客',
         items: [
+          { text: 'Claude C 编译器：揭示软件的未来', link: '/blog/claude-c-compiler-future-of-software' },
           { text: '留下的代价', link: '/blog/cost-of-staying' },
           { text: 'InferenceX v2：Blackwell vs AMD vs Hopper', link: '/blog/inferencex-v2-blackwell-vs-amd' },
           { text: '世界秩序已正式崩塌', link: '/blog/world-order-broken-down' },
