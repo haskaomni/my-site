@@ -26,12 +26,13 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/arc-agi-3-opus-vs-gemini' }
+      { text: '博客', link: '/blog/how-i-use-claude-code' }
     ],
     sidebar: [
       {
         text: '博客',
         items: [
+          { text: '我如何使用 Claude Code', link: '/blog/how-i-use-claude-code' },
           { text: 'ARC-AGI-3：Opus 4.6 vs Gemini 3.1 Pro', link: '/blog/arc-agi-3-opus-vs-gemini' },
           { text: 'Claude C 编译器：揭示软件的未来', link: '/blog/claude-c-compiler-future-of-software' },
           { text: '留下的代价', link: '/blog/cost-of-staying' },
