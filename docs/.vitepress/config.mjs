@@ -30,27 +30,52 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: '博客',
+        text: '🤖 AI 技术与工具',
+        collapsed: false,
+        items: [
+          { text: '我如何使用 Claude Code', link: '/blog/how-i-use-claude-code' },
+          { text: 'Claude C 编译器：揭示软件的未来', link: '/blog/claude-c-compiler-future-of-software' },
+          { text: 'ARC-AGI-3：Opus 4.6 vs Gemini 3.1 Pro', link: '/blog/arc-agi-3-opus-vs-gemini' },
+          { text: 'AI 图片生成模型横评', link: '/blog/ai-image-model-compare' },
+          { text: 'InferenceX v2：Blackwell vs AMD vs Hopper', link: '/blog/inferencex-v2-blackwell-vs-amd' },
+          { text: '7 个实战 Agent 运行模式', link: '/blog/openclaw-autonomous-agent-patterns' },
+          { text: 'Shell + Skills + 压缩', link: '/blog/skills-shell-tips' },
+        ]
+      },
+      {
+        text: '📈 宏观经济与投资',
+        collapsed: false,
         items: [
           { text: '2028 全球智能繁荣', link: '/blog/2028-global-intelligence-boom' },
           { text: '2028 全球智能危机', link: '/blog/2028-global-intelligence-crisis' },
-          { text: '我如何使用 Claude Code', link: '/blog/how-i-use-claude-code' },
-          { text: 'ARC-AGI-3：Opus 4.6 vs Gemini 3.1 Pro', link: '/blog/arc-agi-3-opus-vs-gemini' },
-          { text: 'Claude C 编译器：揭示软件的未来', link: '/blog/claude-c-compiler-future-of-software' },
-          { text: '留下的代价', link: '/blog/cost-of-staying' },
-          { text: 'InferenceX v2：Blackwell vs AMD vs Hopper', link: '/blog/inferencex-v2-blackwell-vs-amd' },
-          { text: '世界秩序已正式崩塌', link: '/blog/world-order-broken-down' },
-          { text: '解决一切：2035 年实现富足', link: '/blog/solve-everything' },
           { text: '12 个 Claude 提示词，替代投行工作', link: '/blog/claude-financial-prompts' },
           { text: 'Anthropic 经济未来：AI 变革与投资机会', link: '/blog/anthropic-economic-futures' },
-          { text: '7 个实战 Agent 运行模式', link: '/blog/openclaw-autonomous-agent-patterns' },
-          { text: 'AI 图片生成模型横评', link: '/blog/ai-image-model-compare' },
-          { text: '那我该怎么办？', link: '/blog/so-what-should-i-do' },
-          { text: '工具形状的物体', link: '/blog/tool-shaped-objects' },
+          { text: '世界秩序已正式崩塌', link: '/blog/world-order-broken-down' },
+        ]
+      },
+      {
+        text: '💡 AI 与社会',
+        collapsed: false,
+        items: [
           { text: '大事正在发生', link: '/blog/big-things-happening' },
-          { text: 'Shell + Skills + 压缩', link: '/blog/skills-shell-tips' },
+          { text: '那我该怎么办？', link: '/blog/so-what-should-i-do' },
+          { text: '留下的代价', link: '/blog/cost-of-staying' },
+          { text: '解决一切：2035 年实现富足', link: '/blog/solve-everything' },
+          { text: '工具形状的物体', link: '/blog/tool-shaped-objects' },
+        ]
+      },
+      {
+        text: '🔗 Web3',
+        collapsed: false,
+        items: [
           { text: 'Zero：去中心化多核世界计算机', link: '/blog/layerzero-zero' },
-          { text: '心智编程现实：完整操作系统', link: '/blog/mind-programs-reality' }
+        ]
+      },
+      {
+        text: '🧠 其他',
+        collapsed: true,
+        items: [
+          { text: '心智编程现实：完整操作系统', link: '/blog/mind-programs-reality' },
         ]
       }
     ],
