@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/nvidia-thoughts-before-earnings' }
+      { text: '博客', link: '/blog/jane-street-broke-bitcoin-price' }
     ],
     sidebar: [
       {
@@ -69,6 +69,7 @@ export default defineConfig({
         text: '🔗 Web3',
         collapsed: false,
         items: [
+          { text: 'Jane Street 如何操纵比特币价格', link: '/blog/jane-street-broke-bitcoin-price' },
           { text: 'Zero：去中心化多核世界计算机', link: '/blog/layerzero-zero' },
         ]
       },
