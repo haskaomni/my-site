@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/jane-street-broke-bitcoin-price' }
+      { text: '博客', link: '/blog/quantum-computer-named-itself-yovuh' }
     ],
     sidebar: [
       {
@@ -85,6 +85,7 @@ export default defineConfig({
         text: '🧠 其他',
         collapsed: true,
         items: [
+          { text: '量子计算机给自己取名 YOVUH', link: '/blog/quantum-computer-named-itself-yovuh' },
           { text: '心智编程现实：完整操作系统', link: '/blog/mind-programs-reality' },
         ]
       }
