@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/quantum-computer-named-itself-yovuh' }
+      { text: '博客', link: '/blog/the-exponential-horizon' }
     ],
     sidebar: [
       {
@@ -46,6 +46,7 @@ export default defineConfig({
         text: '📈 宏观经济与投资',
         collapsed: false,
         items: [
+          { text: '指数地平线：最不对称的时刻', link: '/blog/the-exponential-horizon' },
           { text: '英伟达财报前的一些思考', link: '/blog/nvidia-thoughts-before-earnings' },
           { text: '2028 全球智能繁荣', link: '/blog/2028-global-intelligence-boom' },
           { text: '2028 全球智能危机', link: '/blog/2028-global-intelligence-crisis' },
