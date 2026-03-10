@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/harness-engineering-is-cybernetics' }
+      { text: '博客', link: '/blog/nvidia-ai-five-layer-cake' }
     ],
     sidebar: [
       {
@@ -47,6 +47,7 @@ export default defineConfig({
         text: '📈 宏观经济与投资',
         collapsed: false,
         items: [
+          { text: 'AI 是一块五层蛋糕', link: '/blog/nvidia-ai-five-layer-cake' },
           { text: '5个扑克概念，让你成为更好的交易者', link: '/blog/poker-concepts-for-trading' },
           { text: '内存短缺是人为制造的吗？', link: '/blog/is-the-memory-shortage-intentional' },
           { text: '指数地平线：最不对称的时刻', link: '/blog/the-exponential-horizon' },
