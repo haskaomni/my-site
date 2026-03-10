@@ -26,13 +26,14 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/poker-concepts-for-trading' }
+      { text: '博客', link: '/blog/harness-engineering-is-cybernetics' }
     ],
     sidebar: [
       {
         text: '🤖 AI 技术与工具',
         collapsed: false,
         items: [
+          { text: '驾驭工程即控制论', link: '/blog/harness-engineering-is-cybernetics' },
           { text: '我如何使用 Claude Code', link: '/blog/how-i-use-claude-code' },
           { text: 'Claude C 编译器：揭示软件的未来', link: '/blog/claude-c-compiler-future-of-software' },
           { text: 'ARC-AGI-3：Opus 4.6 vs Gemini 3.1 Pro', link: '/blog/arc-agi-3-opus-vs-gemini' },
