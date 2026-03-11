@@ -10,6 +10,12 @@ description: NVIDIA 官方长文：AI 不是一个应用或模型，而是从能
 ![AI Is a Five-Layer Cake](/images/nvidia-ai-five-layer-cake/hero.jpg)
 *Source: NVIDIA*
 
+<audio controls style="width: 100%; margin: 1em 0;">
+  <source src="/audio/nvidia-ai-five-layer-cake.mp3" type="audio/mpeg">
+  您的浏览器不支持音频播放
+</audio>
+*🎧 点击播放，听 AI 朗读全文*
+
 AI 是当今塑造世界的最强大力量之一。它不是一个聪明的应用，也不是某个单一模型——它是**基础设施**，如同电力和互联网。AI 运行在真实的硬件、真实的能源和真实的经济学之上。它将原材料转化为规模化的智能。每家公司都会使用它。每个国家都会建设它。
 
 要理解 AI 为何以这种方式展开，需要从第一性原理出发，看看计算领域究竟发生了什么根本性变化。
