@@ -7,7 +7,7 @@ description: NVIDIA 官方长文：AI 不是一个应用或模型，而是从能
 
 > 原文：[AI Is a Five-Layer Cake](https://x.com/nvidia/status/2031311890752704790) · NVIDIA · 2026年3月10日
 
-![AI Is a Five-Layer Cake](/my-site/images/nvidia-ai-five-layer-cake/hero.jpg)
+![AI Is a Five-Layer Cake](/images/nvidia-ai-five-layer-cake/hero.jpg)
 *Source: NVIDIA*
 
 AI 是当今塑造世界的最强大力量之一。它不是一个聪明的应用，也不是某个单一模型——它是**基础设施**，如同电力和互联网。AI 运行在真实的硬件、真实的能源和真实的经济学之上。它将原材料转化为规模化的智能。每家公司都会使用它。每个国家都会建设它。
