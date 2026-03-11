@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/nvidia-ai-five-layer-cake' }
+      { text: '博客', link: '/blog/why-smart-people-stay-broke' }
     ],
     sidebar: [
       {
@@ -47,6 +47,7 @@ export default defineConfig({
         text: '📈 宏观经济与投资',
         collapsed: false,
         items: [
+          { text: '聪明人为什么总没钱：5个数学错误', link: '/blog/why-smart-people-stay-broke' },
           { text: 'AI 是一块五层蛋糕', link: '/blog/nvidia-ai-five-layer-cake' },
           { text: '5个扑克概念，让你成为更好的交易者', link: '/blog/poker-concepts-for-trading' },
           { text: '内存短缺是人为制造的吗？', link: '/blog/is-the-memory-shortage-intentional' },
