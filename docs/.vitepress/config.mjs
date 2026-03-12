@@ -75,6 +75,7 @@ export default defineConfig({
         text: '📊 价值投资',
         collapsed: false,
         items: [
+          { text: '硅升碳降·价值筛选 2026-03-12', link: '/blog/value-screen-2026-03-12' },
           { text: '硅升碳降·价值筛选 2026-03-11', link: '/blog/value-screen-2026-03-11' },
           { text: '硅升碳降·价值筛选 2026-03-10', link: '/blog/value-screen-2026-03-10' },
           { text: '硅升碳降·价值筛选 2026-03-09', link: '/blog/value-screen-2026-03-09' },
