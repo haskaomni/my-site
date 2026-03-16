@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/supersonic-tsunami-next-6-months' }
+      { text: '博客', link: '/blog/collapse-of-terminal-value' }
     ],
     sidebar: [
       {
@@ -47,6 +47,7 @@ export default defineConfig({
         text: '📈 宏观经济与投资',
         collapsed: false,
         items: [
+          { text: '终端价值的崩塌：AI让护城河变临时', link: '/blog/collapse-of-terminal-value' },
           { text: '超音速海啸：未来6个月', link: '/blog/supersonic-tsunami-next-6-months' },
           { text: '聪明人为什么总没钱：5个数学错误', link: '/blog/why-smart-people-stay-broke' },
           { text: 'AI 是一块五层蛋糕', link: '/blog/nvidia-ai-five-layer-cake' },
