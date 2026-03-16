@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/why-smart-people-stay-broke' }
+      { text: '博客', link: '/blog/supersonic-tsunami-next-6-months' }
     ],
     sidebar: [
       {
@@ -47,6 +47,7 @@ export default defineConfig({
         text: '📈 宏观经济与投资',
         collapsed: false,
         items: [
+          { text: '超音速海啸：未来6个月', link: '/blog/supersonic-tsunami-next-6-months' },
           { text: '聪明人为什么总没钱：5个数学错误', link: '/blog/why-smart-people-stay-broke' },
           { text: 'AI 是一块五层蛋糕', link: '/blog/nvidia-ai-five-layer-cake' },
           { text: '5个扑克概念，让你成为更好的交易者', link: '/blog/poker-concepts-for-trading' },
