@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/collapse-of-terminal-value' }
+      { text: '博客', link: '/blog/nvidia-gtc-2026-post-keynote-reaction' }
     ],
     sidebar: [
       {
@@ -38,6 +38,7 @@ export default defineConfig({
           { text: 'Claude C 编译器：揭示软件的未来', link: '/blog/claude-c-compiler-future-of-software' },
           { text: 'ARC-AGI-3：Opus 4.6 vs Gemini 3.1 Pro', link: '/blog/arc-agi-3-opus-vs-gemini' },
           { text: 'AI 图片生成模型横评', link: '/blog/ai-image-model-compare' },
+          { text: 'GTC 2026 深度复盘：七芯五架一平台', link: '/blog/nvidia-gtc-2026-post-keynote-reaction' },
           { text: 'InferenceX v2：Blackwell vs AMD vs Hopper', link: '/blog/inferencex-v2-blackwell-vs-amd' },
           { text: '7 个实战 Agent 运行模式', link: '/blog/openclaw-autonomous-agent-patterns' },
           { text: 'Shell + Skills + 压缩', link: '/blog/skills-shell-tips' },
