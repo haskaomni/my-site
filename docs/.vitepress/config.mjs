@@ -79,21 +79,7 @@ export default defineConfig({
         text: '📊 价值投资',
         collapsed: false,
         items: [
-          { text: '硅升碳降·价值筛选 2026-03-23', link: '/blog/value-screen-2026-03-23' },
-          { text: '硅升碳降·价值筛选 2026-03-20', link: '/blog/value-screen-2026-03-20' },
-          { text: '硅升碳降·价值筛选 2026-03-19', link: '/blog/value-screen-2026-03-19' },
-          { text: '硅升碳降·价值筛选 2026-03-18', link: '/blog/value-screen-2026-03-18' },
-          { text: '硅升碳降·价值筛选 2026-03-17', link: '/blog/value-screen-2026-03-17' },
-          { text: '硅升碳降·价值筛选 2026-03-16', link: '/blog/value-screen-2026-03-16' },
-          { text: '硅升碳降·价值筛选 2026-03-12', link: '/blog/value-screen-2026-03-12' },
-          { text: '硅升碳降·价值筛选 2026-03-11', link: '/blog/value-screen-2026-03-11' },
-          { text: '硅升碳降·价值筛选 2026-03-10', link: '/blog/value-screen-2026-03-10' },
-          { text: '硅升碳降·价值筛选 2026-03-09', link: '/blog/value-screen-2026-03-09' },
-          { text: '硅升碳降·价值筛选 2026-03-06', link: '/blog/value-screen-2026-03-06' },
-          { text: '硅升碳降·价值筛选 2026-03-05', link: '/blog/value-screen-2026-03-05' },
-          { text: '硅升碳降·价值筛选 2026-03-04', link: '/blog/value-screen-2026-03-04' },
-          { text: '硅升碳降·价值筛选 2026-03-03', link: '/blog/value-screen-2026-03-03' },
-          { text: '硅升碳降·价值筛选 2026-03-02', link: '/blog/value-screen-2026-03-02' },
+          { text: '硅升碳降·价值筛选总纲', link: '/blog/value-screen-overview' },
         ]
       },
       {
