@@ -1,0 +1,220 @@
+[
+  {
+    "index": 1,
+    "title": "引言",
+    "parts": [
+      {
+        "file": "01-part01.mp3",
+        "chars": 151
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "title": "极致协同设计与机架级工程",
+    "parts": [
+      {
+        "file": "02-part01.mp3",
+        "chars": 787
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "title": "黄仁勋如何管理 NVIDIA",
+    "parts": [
+      {
+        "file": "03-part01.mp3",
+        "chars": 4453
+      },
+      {
+        "file": "03-part02.mp3",
+        "chars": 1609
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "title": "AI Scaling Laws（规模定律）",
+    "parts": [
+      {
+        "file": "04-part01.mp3",
+        "chars": 4474
+      },
+      {
+        "file": "04-part02.mp3",
+        "chars": 210
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "title": "AI 扩展法则的最大障碍",
+    "parts": [
+      {
+        "file": "05-part01.mp3",
+        "chars": 537
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "title": "供应链",
+    "parts": [
+      {
+        "file": "06-part01.mp3",
+        "chars": 469
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "title": "内存",
+    "parts": [
+      {
+        "file": "07-part01.mp3",
+        "chars": 1996
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "title": "电源",
+    "parts": [
+      {
+        "file": "08-part01.mp3",
+        "chars": 1578
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "title": "伊隆和巨像",
+    "parts": [
+      {
+        "file": "09-part01.mp3",
+        "chars": 1034
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "title": "Jensen 的工程和领导方法",
+    "parts": [
+      {
+        "file": "10-part01.mp3",
+        "chars": 1683
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "title": "中国",
+    "parts": [
+      {
+        "file": "11-part01.mp3",
+        "chars": 2366
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "title": "台积电和台湾",
+    "parts": [
+      {
+        "file": "12-part01.mp3",
+        "chars": 1447
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "title": "NVIDIA 的护城河",
+    "parts": [
+      {
+        "file": "13-part01.mp3",
+        "chars": 1660
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "title": "太空中的 AI 数据中心",
+    "parts": [
+      {
+        "file": "14-part01.mp3",
+        "chars": 1234
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "title": "NVIDIA 的市值会达到 10 万亿美元吗？",
+    "parts": [
+      {
+        "file": "15-part01.mp3",
+        "chars": 2898
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "title": "压力下的领导力",
+    "parts": [
+      {
+        "file": "16-part01.mp3",
+        "chars": 3863
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "title": "电子游戏",
+    "parts": [
+      {
+        "file": "17-part01.mp3",
+        "chars": 2186
+      }
+    ]
+  },
+  {
+    "index": 18,
+    "title": "AGI 时间表",
+    "parts": [
+      {
+        "file": "18-part01.mp3",
+        "chars": 679
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "title": "编程的未来",
+    "parts": [
+      {
+        "file": "19-part01.mp3",
+        "chars": 4094
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "title": "意识",
+    "parts": [
+      {
+        "file": "20-part01.mp3",
+        "chars": 1679
+      }
+    ]
+  },
+  {
+    "index": 21,
+    "title": "死亡",
+    "parts": [
+      {
+        "file": "21-part01.mp3",
+        "chars": 2413
+      }
+    ]
+  }
+]

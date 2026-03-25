@@ -25,6 +25,191 @@ description: Lex Fridman 对谈黄仁勋的中文翻译版，覆盖 NVIDIA 的�
 * 返回【本集主页】(https://lexfridman.com/jensen-huang/)
 * 观看 [完整 YouTube 版播客](https://youtube.com/watch?v=vif8NQcjVf0)
 
+## 全文章节音频
+
+> 以下为按章节切分的全文 TTS 音频，可直接在线播放或下载。
+
+### 01. 引言
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/01-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/01-part01.mp3)
+
+### 02. 极致协同设计与机架级工程
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/02-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/02-part01.mp3)
+
+### 03. 黄仁勋如何管理 NVIDIA
+
+**Part 1**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/03-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/03-part01.mp3)
+
+**Part 2**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/03-part02.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/03-part02.mp3)
+
+### 04. AI Scaling Laws（规模定律）
+
+**Part 1**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/04-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/04-part01.mp3)
+
+**Part 2**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/04-part02.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/04-part02.mp3)
+
+### 05. AI 扩展法则的最大障碍
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/05-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/05-part01.mp3)
+
+### 06. 供应链
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/06-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/06-part01.mp3)
+
+### 07. 内存
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/07-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/07-part01.mp3)
+
+### 08. 电源
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/08-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/08-part01.mp3)
+
+### 09. 伊隆和巨像
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/09-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/09-part01.mp3)
+
+### 10. Jensen 的工程和领导方法
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/10-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/10-part01.mp3)
+
+### 11. 中国
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/11-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/11-part01.mp3)
+
+### 12. 台积电和台湾
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/12-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/12-part01.mp3)
+
+### 13. NVIDIA 的护城河
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/13-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/13-part01.mp3)
+
+### 14. 太空中的 AI 数据中心
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/14-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/14-part01.mp3)
+
+### 15. NVIDIA 的市值会达到 10 万亿美元吗？
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/15-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/15-part01.mp3)
+
+### 16. 压力下的领导力
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/16-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/16-part01.mp3)
+
+### 17. 电子游戏
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/17-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/17-part01.mp3)
+
+### 18. AGI 时间表
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/18-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/18-part01.mp3)
+
+### 19. 编程的未来
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/19-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/19-part01.mp3)
+
+### 20. 意识
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/20-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/20-part01.mp3)
+
+### 21. 死亡
+
+**播放 / 下载**
+
+<audio controls preload="none" src="/audio/jensen-huang-lex-fridman-transcript/21-part01.mp3"></audio>
+
+[下载音频](/audio/jensen-huang-lex-fridman-transcript/21-part01.mp3)
+
+
 ## 目录
 以下是对话中松散的“章节”。
 单击链接可大致跳转到文字记录中的该部分：
