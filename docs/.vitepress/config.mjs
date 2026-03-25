@@ -26,13 +26,14 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/nvidia-gtc-2026-post-keynote-reaction' }
+      { text: '博客', link: '/blog/jensen-huang-lex-fridman-transcript' }
     ],
     sidebar: [
       {
         text: '🤖 AI 技术与工具',
         collapsed: false,
         items: [
+          { text: '黄仁勋对谈实录：NVIDIA、AI 革命与万亿级未来', link: '/blog/jensen-huang-lex-fridman-transcript' },
           { text: '驾驭工程即控制论', link: '/blog/harness-engineering-is-cybernetics' },
           { text: '我如何使用 Claude Code', link: '/blog/how-i-use-claude-code' },
           { text: 'Claude C 编译器：揭示软件的未来', link: '/blog/claude-c-compiler-future-of-software' },
