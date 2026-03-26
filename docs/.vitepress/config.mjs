@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/jensen-huang-lex-fridman-transcript' }
+      { text: '博客', link: '/blog/ai-evolving-changing-understanding-of-intelligence' }
     ],
     sidebar: [
       {
@@ -68,6 +68,7 @@ export default defineConfig({
         text: '💡 AI 与社会',
         collapsed: false,
         items: [
+          { text: 'AI 正在进化——也在改写我们对智能的理解', link: '/blog/ai-evolving-changing-understanding-of-intelligence' },
           { text: '大事正在发生', link: '/blog/big-things-happening' },
           { text: '那我该怎么办？', link: '/blog/so-what-should-i-do' },
           { text: '留下的代价', link: '/blog/cost-of-staying' },
