@@ -80,6 +80,7 @@ export default defineConfig({
         text: '📊 价值投资',
         collapsed: false,
         items: [
+          { text: '每日价值筛选 2026-03-30：AI 基础设施里最便宜的三张票', link: '/blog/value-screen-2026-03-30' },
           { text: '硅升碳降·价值筛选总纲', link: '/blog/value-screen-overview' },
         ]
       },
