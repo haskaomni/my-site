@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/from-hierarchy-to-intelligence' }
+      { text: '博客', link: '/blog/ios-web-audio-pitfalls' }
     ],
     sidebar: [
       {
@@ -68,6 +68,7 @@ export default defineConfig({
         text: '💡 AI 与社会',
         collapsed: false,
         items: [
+          { text: 'iOS Web 音频开发踩坑实录', link: '/blog/ios-web-audio-pitfalls' },
           { text: '从层级制到智能体公司', link: '/blog/from-hierarchy-to-intelligence' },
           { text: 'AI 正在进化——也在改写我们对智能的理解', link: '/blog/ai-evolving-changing-understanding-of-intelligence' },
           { text: '大事正在发生', link: '/blog/big-things-happening' },
