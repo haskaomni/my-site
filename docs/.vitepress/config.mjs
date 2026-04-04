@@ -26,13 +26,14 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/ios-web-audio-pitfalls' }
+      { text: '博客', link: '/blog/autoagent-self-optimizing-agents' }
     ],
     sidebar: [
       {
         text: '🤖 AI 技术与工具',
         collapsed: false,
         items: [
+          { text: 'AutoAgent：首个开源的自优化 Agent 库', link: '/blog/autoagent-self-optimizing-agents' },
           { text: '黄仁勋对谈实录：NVIDIA、AI 革命与万亿级未来', link: '/blog/jensen-huang-lex-fridman-transcript' },
           { text: '驾驭工程即控制论', link: '/blog/harness-engineering-is-cybernetics' },
           { text: '我如何使用 Claude Code', link: '/blog/how-i-use-claude-code' },
