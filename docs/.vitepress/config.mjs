@@ -84,6 +84,7 @@ export default defineConfig({
         text: '📊 价值投资',
         collapsed: false,
         items: [
+          { text: '每日价值筛选 2026-04-06：算力硬件、光学复苏、卖水网络里的三张便宜票', link: '/blog/value-screen-2026-04-06' },
           { text: '每日价值筛选 2026-03-30：AI 基础设施里最便宜的三张票', link: '/blog/value-screen-2026-03-30' },
           { text: '硅升碳降·价值筛选总纲', link: '/blog/value-screen-overview' },
         ]
