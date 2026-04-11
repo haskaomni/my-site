@@ -7,7 +7,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /blog/big-things-happening
+      link: /blog/sam-altman-trust-and-openai-governance
     - theme: alt
       text: GitHub
       link: https://github.com/haskaomni
