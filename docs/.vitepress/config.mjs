@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/sam-altman-trust-and-openai-governance' }
+      { text: '博客', link: '/blog/claude-mythos-system-card' }
     ],
     sidebar: [
       {
@@ -70,6 +70,7 @@ export default defineConfig({
         text: '💡 AI 与社会',
         collapsed: false,
         items: [
+          { text: 'Claude Mythos 系统卡导读', link: '/blog/claude-mythos-system-card' },
           { text: 'Sam Altman 能被托付未来吗？', link: '/blog/sam-altman-trust-and-openai-governance' },
           { text: 'iOS Web 音频开发踩坑实录', link: '/blog/ios-web-audio-pitfalls' },
           { text: '从层级制到智能体公司', link: '/blog/from-hierarchy-to-intelligence' },
