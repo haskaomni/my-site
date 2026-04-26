@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/chip-design-manufacturing-delivery' }
+      { text: '博客', link: '/blog/ai-supply-chain-bottleneck-stocks-from-tweet' }
     ],
     sidebar: [
       {
@@ -58,6 +58,7 @@ export default defineConfig({
         text: '📈 宏观经济与投资',
         collapsed: false,
         items: [
+          { text: 'AI 供应链瓶颈股票清单', link: '/blog/ai-supply-chain-bottleneck-stocks-from-tweet' },
           { text: 'NVIDIA 800 VDC 生态供应商股票清单', link: '/blog/nvidia-800vdc-ecosystem-stocks' },
           { text: '终端价值的崩塌：AI让护城河变临时', link: '/blog/collapse-of-terminal-value' },
           { text: '超音速海啸：未来6个月', link: '/blog/supersonic-tsunami-next-6-months' },
