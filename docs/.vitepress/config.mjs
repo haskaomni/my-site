@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/nvidia-800vdc-ecosystem-stocks' }
+      { text: '博客', link: '/blog/chip-design-manufacturing-delivery' }
     ],
     sidebar: [
       {
@@ -45,6 +45,13 @@ export default defineConfig({
           { text: 'InferenceX v2：Blackwell vs AMD vs Hopper', link: '/blog/inferencex-v2-blackwell-vs-amd' },
           { text: '7 个实战 Agent 运行模式', link: '/blog/openclaw-autonomous-agent-patterns' },
           { text: 'Shell + Skills + 压缩', link: '/blog/skills-shell-tips' },
+        ]
+      },
+      {
+        text: '💾 半导体与硬件',
+        collapsed: false,
+        items: [
+          { text: '一颗芯片如何诞生：从设计、制造到交付', link: '/blog/chip-design-manufacturing-delivery' },
         ]
       },
       {
