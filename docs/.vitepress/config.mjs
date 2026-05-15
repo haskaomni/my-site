@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/karri-saarinen-some-notes-on-ai' }
+      { text: '博客', link: '/blog/ai-supply-chain-bottlenecks-irrational-analysis-interview' }
     ],
     sidebar: [
       {
@@ -52,6 +52,7 @@ export default defineConfig({
         text: '💾 半导体与硬件',
         collapsed: false,
         items: [
+          { text: 'AI 供应链瓶颈评级：Irrational Analysis 访谈', link: '/blog/ai-supply-chain-bottlenecks-irrational-analysis-interview' },
           { text: '一颗芯片如何诞生：从设计、制造到交付', link: '/blog/chip-design-manufacturing-delivery' },
         ]
       },
