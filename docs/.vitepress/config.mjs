@@ -107,6 +107,7 @@ export default defineConfig({
         text: '🔗 Web3',
         collapsed: false,
         items: [
+          { text: '挖矿 Pearl/PRL：PoUW 链的收益、风险与单机启动提示词', link: '/blog/pearl-prl-pouw-mining' },
           { text: 'Jane Street 如何操纵比特币价格', link: '/blog/jane-street-broke-bitcoin-price' },
           { text: 'Zero：去中心化多核世界计算机', link: '/blog/layerzero-zero' },
         ]
