@@ -52,6 +52,7 @@ export default defineConfig({
         text: '💾 半导体与硬件',
         collapsed: false,
         items: [
+          { text: '大 AI 硅短缺：N3 晶圆、内存与数据中心瓶颈', link: '/blog/the-great-ai-silicon-shortage' },
           { text: '最后 1 厘米的经济学：AI GPU 电源', link: '/blog/economics-of-last-1cm-ai-gpu-power' },
           { text: 'AI 供应链瓶颈评级：Irrational Analysis 访谈', link: '/blog/ai-supply-chain-bottlenecks-irrational-analysis-interview' },
           { text: '一颗芯片如何诞生：从设计、制造到交付', link: '/blog/chip-design-manufacturing-delivery' },
