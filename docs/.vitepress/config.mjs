@@ -52,6 +52,7 @@ export default defineConfig({
         text: '💾 半导体与硬件',
         collapsed: false,
         items: [
+          { text: 'Iamai：AI 产业链瓶颈全解析', link: '/blog/iamai-ai-supply-chain-bottlenecks-168x' },
           { text: '大 AI 硅短缺：N3 晶圆、内存与数据中心瓶颈', link: '/blog/the-great-ai-silicon-shortage' },
           { text: '最后 1 厘米的经济学：AI GPU 电源', link: '/blog/economics-of-last-1cm-ai-gpu-power' },
           { text: 'AI 供应链瓶颈评级：Irrational Analysis 访谈', link: '/blog/ai-supply-chain-bottlenecks-irrational-analysis-interview' },
