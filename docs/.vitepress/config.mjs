@@ -85,6 +85,7 @@ export default defineConfig({
         text: '💡 AI 与社会',
         collapsed: false,
         items: [
+          { text: '当 AI 开始构建它自己：递归自我改进', link: '/blog/anthropic-recursive-self-improvement' },
           { text: 'Claude Mythos 系统卡导读', link: '/blog/claude-mythos-system-card' },
           { text: 'Sam Altman 能被托付未来吗？', link: '/blog/sam-altman-trust-and-openai-governance' },
           { text: 'iOS Web 音频开发踩坑实录', link: '/blog/ios-web-audio-pitfalls' },
