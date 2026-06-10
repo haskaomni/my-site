@@ -33,6 +33,7 @@ export default defineConfig({
         text: '🤖 AI 技术与工具',
         collapsed: false,
         items: [
+          { text: '大规模测试时计算的影响', link: '/blog/large-scale-test-time-compute' },
           { text: 'Karri Saarinen：关于 AI 的一些笔记', link: '/blog/karri-saarinen-some-notes-on-ai' },
           { text: '霍尔木兹海峡：Citrini 实地考察', link: '/blog/strait-of-hormuz-citrini-field-trip' },
           { text: 'AutoAgent：首个开源的自优化 Agent 库', link: '/blog/autoagent-self-optimizing-agents' },
