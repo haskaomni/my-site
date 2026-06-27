@@ -120,6 +120,13 @@ export default defineConfig({
         ]
       },
       {
+        text: '🧰 工具与资源',
+        collapsed: false,
+        items: [
+          { text: '谷歌不想让你知道的 100 个网站', link: '/blog/100-useful-websites-google-does-not-want-you-to-know' },
+        ]
+      },
+      {
         text: '🧠 其他',
         collapsed: true,
         items: [
