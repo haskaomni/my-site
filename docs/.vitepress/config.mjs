@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/economics-of-last-1cm-ai-gpu-power' }
+      { text: '博客', link: '/blog/46-thoughts-on-the-near-future' }
     ],
     sidebar: [
       {
@@ -88,6 +88,7 @@ export default defineConfig({
         text: '💡 AI 与社会',
         collapsed: false,
         items: [
+          { text: '未来近景的 46 条判断', link: '/blog/46-thoughts-on-the-near-future' },
           { text: '当 AI 开始构建它自己：递归自我改进', link: '/blog/anthropic-recursive-self-improvement' },
           { text: 'Claude Mythos 系统卡导读', link: '/blog/claude-mythos-system-card' },
           { text: 'Sam Altman 能被托付未来吗？', link: '/blog/sam-altman-trust-and-openai-governance' },
