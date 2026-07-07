@@ -33,6 +33,7 @@ export default defineConfig({
         text: '🤖 AI 技术与工具',
         collapsed: false,
         items: [
+          { text: 'Agent 的持续学习：Replit 如何把评估变成改进循环', link: '/blog/continual-learning-for-agents' },
           { text: '我们如何构建世界最快的 GLM-5.2 API', link: '/blog/glm-52-fastest-api-baseten' },
           { text: '用 Fable 5 设计循环', link: '/blog/designing-loops-with-fable-5' },
           { text: '大规模测试时计算的影响', link: '/blog/large-scale-test-time-compute' },
