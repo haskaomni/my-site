@@ -26,7 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/people-who-thrive-in-ai-age' }
+      { text: '博客', link: '/blog/frontier-ai-framework-new-age' }
     ],
     sidebar: [
       {
@@ -89,6 +89,7 @@ export default defineConfig({
         text: '💡 AI 与社会',
         collapsed: false,
         items: [
+          { text: '前沿 AI 框架与新时代的曙光', link: '/blog/frontier-ai-framework-new-age' },
           { text: 'AI 时代谁会脱颖而出', link: '/blog/people-who-thrive-in-ai-age' },
           { text: '未来近景的 46 条判断', link: '/blog/46-thoughts-on-the-near-future' },
           { text: '当 AI 开始构建它自己：递归自我改进', link: '/blog/anthropic-recursive-self-improvement' },
