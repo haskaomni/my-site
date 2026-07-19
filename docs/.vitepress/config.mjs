@@ -26,13 +26,14 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/you-just-hired-a-million-bad-employees' }
+      { text: '博客', link: '/blog/kimi-k3-kernelbench' }
     ],
     sidebar: [
       {
         text: '🤖 AI 技术与工具',
         collapsed: false,
         items: [
+          { text: 'Kimi K3 在 KernelBench 上的表现', link: '/blog/kimi-k3-kernelbench' },
           { text: '你刚雇了一百万个糟糕员工', link: '/blog/you-just-hired-a-million-bad-employees' },
           { text: 'Agent 的持续学习：Replit 如何把评估变成改进循环', link: '/blog/continual-learning-for-agents' },
           { text: '我们如何构建世界最快的 GLM-5.2 API', link: '/blog/glm-52-fastest-api-baseten' },
